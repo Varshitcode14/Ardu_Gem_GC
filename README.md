@@ -1,6 +1,6 @@
 # Hungry Balls - Arduino Dual-Player Game
 
-A fun, interactive two-player game built for Arduino with TFT display and rotary encoders. Players control balls that collect coins to score points within a time limit.
+A fun, interactive two-player game built for Arduino with TFT display and rotary encoders. Players control balls that collect coins to score points within a 60-second time limit.
 
 ![Hungry Balls Game](https://placeholder.svg?height=300&width=400&text=Hungry+Balls+Game)
 
@@ -13,6 +13,7 @@ A fun, interactive two-player game built for Arduino with TFT display and rotary
 - Physics-based jumping and movement
 - Game restart functionality
 - Colorful TFT display interface
+- Consistent 60-second game timer
 
 ## Hardware Requirements
 
